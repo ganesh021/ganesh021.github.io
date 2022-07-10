@@ -58,8 +58,22 @@
     margin-left: auto;
     margin-right: auto;
 }
+.logo-neu {
+    width: 65%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .logo-hcl {
     width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo-jobme {
+    width: 30%;
     height: auto;
     display: block;
     margin-left: auto;
