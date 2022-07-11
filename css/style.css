@@ -226,6 +226,20 @@
         display: block;
         margin: auto;
     }
+    .logo-neu {
+        position: static;
+        height: auto;
+        width: 25%;
+        display: block;
+        margin: auto;
+    }
+    .logo-jobme {
+        position: static;
+        height: auto;
+        width: 12%;
+        display: block;
+        margin: auto;
+    }
     .profile-photo {
         position: static;
         height: auto;
